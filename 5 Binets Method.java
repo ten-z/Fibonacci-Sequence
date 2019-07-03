@@ -42,7 +42,7 @@ public class Solution {
 		return ret;
 	}
 
-	//数组乘法的实现
+	//矩阵乘法的实现
 	public static int[][] multiply(int[][] a, int[][] b) {
 		int[][] c = new int[2][2];
 		for (int i = 0; i < 2; i++) {
